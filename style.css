@@ -5,3 +5,12 @@
     border-radius: 8px;
     padding: 12px 30px;
 }
+
+.footer {
+    height: 400px;
+    background-color: rgb(12, 12, 12);
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
